@@ -2,7 +2,7 @@
 
 ### project of defencing
 
-[[baiduwangpan](https://pan.baidu.com/s/1UwUG3pg3xNdS7cURK88acg )]  提取码：152n 
+The model .pth of Bidattentionmap [[baiduwangpan](https://pan.baidu.com/s/1UwUG3pg3xNdS7cURK88acg )]  extract code：152n 
 
 Please put the model .pth of Bidattentionmap into the folder ./Bidattention.
 
